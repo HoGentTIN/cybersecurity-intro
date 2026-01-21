@@ -6,7 +6,7 @@ title: "Hoofdstuk 1: wachtwoorden"
 
 ---
 
-<img src="https://imgs.xkcd.com/comics/how_hacking_works_2x.png" class="r-stretch" />
+<img src="./img/h1/how_hacking_works.png" class="r-stretch" />
 
 ---
 
