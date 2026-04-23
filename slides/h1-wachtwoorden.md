@@ -8,9 +8,17 @@ title: "Hoofdstuk 1: wachtwoorden"
 
 <img src="./img/h1/how_hacking_works.png" class="r-stretch" />
 
+https://hackertyper.net/
+
 ---
 
-<img src="./img/h1/wooclap.png" />
+<img src="./img/h1/phishqr.png" class="r-stretch" />
+
+[https://app.wooclap.com/KHODEI](https://hogenttin.github.io/phishing-awareness/google/index.html)
+
+---
+
+<img src="./img/h1/wooclap.png" class="r-stretch" />
 
 https://app.wooclap.com/KHODEI
 
@@ -21,13 +29,10 @@ https://app.wooclap.com/KHODEI
 - Musti2012 &rarr; <span style="color:red">te kort, voorspelbaar</span>
 - A8!Kgh3 &rarr; <span style="color:red">te kort</span>
 - Ikstudeerophogent &rarr; <span style="color:red">voorspelbaar</span>
-- SchoonmeersenHOGENT &rarr; <span style="color:red">voorspelbaar</span>
-- 8765 &rarr; <span style="color:red">te kort, weinig complexiteit</span>
 - LiefKleinKonijntje &rarr; <span style="color:green">lang, NL (zolang de woorden random gekozen zijn)</span>
 - LiefKlijnKoneintje &rarr; <span style="color:green">lang, NL, typfout (zie hierboven)</span>
-- Shadow1Hogent &rarr; <span style="color:red">Truucjes helpen niet</span>
-- Shadow1Facebook &rarr; <span style="color:red">Truucjes helpen niet</span>
 - kmAIw0IlCUvX5nk9 &rarr; <span style="color:green">Ok! Kan je het onthouden?</span>
+- Het systeem &rarr; <span style="color:red">Systeem kan geraden worden. Wat als je een wachtwoord moet veranderen? Wat als er wachtwoordvereisten zijn?</span>
 
 ---
 
@@ -136,7 +141,7 @@ Notes:
 - **Password managers** zijn zeker een goede oplossing
 - Vullen wachtwoorden **automatisch** aan in de browser
 
-<iframe width="1066" height="600" src="https://www.youtube.com/embed/hWqyPW0QJRk?si=PyDoAlUauL-L3Qhk" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="./img/h1/password-manager.gif" />
 
 ---
 
